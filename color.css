@@ -1,0 +1,19 @@
+:root {
+    --header__background--color-: black;
+    --white__text--color-: white;
+    --black__text--color-: black;
+    --white--background__color-: white;
+    --grey--background__color-: rgb(30, 30, 30);
+}
+
+.header--title {
+    color: var(--white__text--color-);
+}
+
+.navigation--container {
+    background-color: var(--white--background__color-);
+}
+
+main {
+    background-color: var(--grey--background__color-);
+}
